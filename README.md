@@ -37,7 +37,7 @@ Because only block properties are modified, the mod is:
 
 ## Compatibility
 
-- **Minecraft:** 26.1.x (see earlier releases for 1.21.1, 1.21.4, 1.21.8, 1.21.11)
+- **Minecraft:** 26.2 (on NeoForge 26.2 beta; see earlier releases for 26.1.x, 1.21.1, 1.21.4, 1.21.8, 1.21.11)
 - **Mod loader:** NeoForge (this repo is NeoForge-only)
 
 ## Building from source
